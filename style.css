@@ -102,8 +102,7 @@ footer p{
     right:1rem;
     position: fixed;
     color: #4c6056;
-    background:rgba(148, 159, 141,0.3);
-    font-family: 'Work Sans', sans-serif; 
+    background:rgba(148, 159, 141,0.3); 
     padding:0.5rem 1rem;
     border-radius: 6px 6px;
     box-shadow: 0 0 5px rgba(148, 159, 141,1);

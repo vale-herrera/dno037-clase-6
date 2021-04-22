@@ -41,6 +41,8 @@ $(document).ready(function () {
                     fillOpacity: 0.75,
                     weight: 2,
                     radius: 100000,
+
+                    
                 })
                     .addTo(elmapa)
                     .on("click", vinculo);
